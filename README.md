@@ -6,6 +6,8 @@
 一系列python库的环境依赖（具体可参考我们github 的requirements.txt）
 Unity 2018.4.12
 
+![示意图](https://github.com/gangsterless/poseanalysis/tree/master/readmeimg/1.jpg)
+
 
 1 首先安装openpose ：
 option1：可以参考openpose的官方安装配置教程
