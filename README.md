@@ -9,6 +9,12 @@ Unity 2018.4.12
 
 1 首先安装openpose ：
 option1：可以参考openpose的官方安装配置教程
+
 option2：也可以直接用发行版：
 推荐GPU版本最低配置： 1660ti 6G显存。
 https://github.com/CMU-Perceptual-Computing-Lab/openpose/releases
+
+2 安装3dposebaseline
+https://github.com/ArashHosseini/3d-pose-baseline
+
+
